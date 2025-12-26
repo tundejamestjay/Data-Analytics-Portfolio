@@ -3,7 +3,7 @@
 Hello! I’m Tunde James, a Data Analyst with proven expertise in Excel, Power BI, and Data Visualization. I’m passionate about transforming complex datasets into clear, actionable insights that support informed business and management decisions.
 
 ## SKILLS
-As a Data Analyst, I exctract, transform and visualize complex data, turning them into actionable insights for informed Decision making.
+As a Data Analyst, I exctract, transform and visualize complex data, turning them into actionable insights.
 
 ### Data Visualization Samples ![Image](DASHBOARD SAMPLES.png)
 
